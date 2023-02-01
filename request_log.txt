@@ -19,3 +19,13 @@ GET /peaks at 2:50:00 PM on 1/30/2023
 GET /peaks?difficulty=2 at 2:50:10 PM on 1/30/2023
 GET /peaks?range=sangre%20de%20cristo at 2:50:25 PM on 1/30/2023
 GET /peaks?range=sangre%20de%20cristo&difficulty=3 at 2:50:38 PM on 1/30/2023
+GET / at 6:44:48 PM on 1/30/2023
+GET /favicon.ico at 6:44:48 PM on 1/30/2023
+GET /peaks at 6:44:51 PM on 1/30/2023
+GET /peaks at 7:16:37 PM on 1/30/2023
+GET /peaks/8 at 7:17:14 PM on 1/30/2023
+GET /peaks/8 at 7:19:00 PM on 1/30/2023
+GET /peaks/8 at 7:19:04 PM on 1/30/2023
+GET /peaks/1 at 7:19:15 PM on 1/30/2023
+GET /peaks/8 at 7:20:01 PM on 1/30/2023
+GET /peaks/4 at 7:21:03 PM on 1/30/2023

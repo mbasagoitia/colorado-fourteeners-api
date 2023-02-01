@@ -26,9 +26,9 @@ app.use(logger);
 
 // import routes
 const { peaksRouter, logRouter, rangeRouter } = require("./routes");
-app.use(logRouter);
-app.use(peaksRouter);
-app.use(rangeRouter);
+app.use("/api", logRouter);
+app.use("/api", peaksRouter);
+app.use("/api", rangeRouter);
 
 // handle 404 (not found)
 app.use((req, res, next) => {
